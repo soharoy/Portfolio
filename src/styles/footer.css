@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    text-align: center;
+}
+
+.footer>img {
+    width: 30px;
+    height: 30px;
+    padding: 0.5%;
+}
+
+.footer>img:hover {
+    opacity: 0.5;
+}

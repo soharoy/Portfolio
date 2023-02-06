@@ -1,0 +1,12 @@
+.home {
+    display: flex;
+}
+
+.home>h1 {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    width: 100vw;
+    animation: backInUp;
+    animation-duration: 2s;
+}
